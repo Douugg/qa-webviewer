@@ -2,7 +2,6 @@
 Library     Browser
 Resource    ../environment_config.robot
 
-
 *** Variables ***
 ${EXEMPLE}      xpath=//
 
